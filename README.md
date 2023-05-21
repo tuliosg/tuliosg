@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Noto+Sans&weight=600&size=20&duration=2500&pause=500&color=F7F7F7&multiline=true&width=1000&height=85&lines=T%C3%BAlio+Sousa;Graduando+em+Engenharia+de+Computa%C3%A7%C3%A3o+%7C+Pesquisador;Ci%C3%AAncia+de+Dados+%7C+Processamento+de+Linguagem+Natural)](https://github.com/tuliosg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Noto+Sans&weight=600&size=24&duration=2500&pause=500&color=F7F7F7&multiline=true&width=1000&height=95&lines=T%C3%BAlio+Sousa;Graduando+em+Engenharia+de+Computa%C3%A7%C3%A3o+%7C+Pesquisador;Ci%C3%AAncia+de+Dados+%7C+Processamento+de+Linguagem+Natural)](https://github.com/tuliosg)
 ---
 <h3>Um breve resumo</h3>
 
