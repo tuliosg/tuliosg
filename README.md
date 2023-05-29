@@ -5,7 +5,7 @@
 - 🎓 Graduando em Engenharia de Computação | **UFS**
 - 🔍 Pesquisador CNPq - IT no Laboratório Multiusuário de Informática e Documentação Linguística | [**LAMID**](https://github.com/lamid-ufs)
 - 💻 Vice-Presidente da Liga Acadêmica de Ciência de Dados | **LADATA**
-- 📖 Atuando e estudando as áreas de _Ciência de Dados_, _Processamento de Linguagem Natural_ e _Machine Learning_  
+- 📖 Curioso desbravando as áreas de _Ciência de Dados_, _Processamento de Linguagem Natural_ e _Machine Learning_  
 
 
 <h4>Onde me encontrar:</h4>
