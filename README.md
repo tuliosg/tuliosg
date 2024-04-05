@@ -12,7 +12,7 @@
 <p align="left">
 <a href="https://orcid.org/0009-0000-5270-8033" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/ORCID_iD.svg/2048px-ORCID_iD.svg.png" alt="tuliosg" height="32" width="32" /></a>
 <a href="http://lattes.cnpq.br/3144259540099140" target="blank"><img align="center" src="https://www2.ufjf.br/ambienteconstruido/wp-content/uploads/sites/152/2021/11/LATTES.png" alt="tuliosg" height="33" width="33" /></a>
-<a href="https://medium.com/@tulio.sg" target="blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/social-media-circle-7/512/Medium_circle-512.png" alt="tuliosg" height="33" width="33" /></a>
+<a href="https://medium.com/@tuliosg" target="blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/social-media-circle-7/512/Medium_circle-512.png" alt="tuliosg" height="33" width="33" /></a>
 <a href="https://linkedin.com/in/tuliosg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tuliosg" height="30" width="35" /></a>
 <a href="https://kaggle.com/tuliosg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="tuliosg" height="30" width="28" /></a>
 </p>
