@@ -3,7 +3,7 @@
 <h3>Um breve resumo</h3>
 
 - 🎓 Graduando em Engenharia de Computação | **UFS**
-- 🔍 Pesquisador CNPq - IT no Laboratório Multiusuário de Informática e Documentação Linguística | [**LAMID**](https://github.com/lamid-ufs)
+- 🔍 Pesquisador CNPq - IT no Laboratório Multiusuário de Documentação e Processamento Linguístico | [**LAMID**](https://github.com/lamid-ufs)
 - 💻 Vice-Presidente da Liga Acadêmica de Ciência de Dados | [**LADATA**](https://github.com/ladata-ufs)
 - 📖 Curioso desbravando as áreas de _Ciência de Dados_, _Processamento de Linguagem Natural_ e _Machine Learning_  
 
