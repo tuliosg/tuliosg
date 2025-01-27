@@ -12,10 +12,9 @@
 
 <h4>Contatos</h4>
 <p align="left">
-<a href="https://x.com/tuliosgois"><img align="center" src="https://freepnglogo.com/images/all_img/1691832581twitter-x-icon-png.png" alt="tuliosg" height="36" width="36" /></a>
+<a href="https://bsky.app/profile/tuliosgois.bsky.social"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Bluesky_Logo.svg/869px-Bluesky_Logo.svg.png" alt="tuliosgois" height="32" /></a>
 <a href="https://linkedin.com/in/tuliosg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tuliosg" height="30" width="35" /></a>
 <a href="https://kaggle.com/tuliosg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="tuliosg" height="30" width="28" /></a>
-<a href="https://medium.com/@tuliosg" target="blank"><img align="center" src="https://cdn.icon-icons.com/icons2/3041/PNG/512/medium_logo_icon_189223.png" alt="tuliosg" height="42" /></a>
 <a href="https://orcid.org/0009-0000-5270-8033" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/ORCID_iD.svg/2048px-ORCID_iD.svg.png" alt="tuliosg" height="32" width="32" /></a>
 <a href="http://lattes.cnpq.br/3144259540099140" target="blank"><img align="center" src="https://www2.ufjf.br/ambienteconstruido/wp-content/uploads/sites/152/2021/11/LATTES.png" alt="tuliosg" height="33" width="33" /></a>
 </p>
