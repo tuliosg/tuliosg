@@ -4,7 +4,7 @@
 
 - 🎓 Graduando em Engenharia de Computação | **DCOMP/UFS**
 - 🔍 Pesquisador CNPq - IC no Laboratório Multiusuário de Documentação e Processamento Linguístico | [**LAMID**](https://github.com/lamid-ufs)
-- 💻 Vice-presidente da Liga Acadêmica de Ciência de Dados | [**LADATA**](https://github.com/ladata-ufs)
+- 💻 Conselheiro da Liga Acadêmica de Ciência de Dados | [**LADATA**](https://github.com/ladata-ufs)
 - 🗝️ Embaixador da Rede Brasileira de Reprodutibilidade | [**RBR**](https://www.reprodutibilidade.org/)
 - 📖 Curioso desbravando as áreas de _Ciência de Dados_, _Processamento de Linguagem Natural_ e _Sociolinguística Computacional_
 - 🔓 Alinhado com a Ciência Aberta, por uma ciência mais colaborativa e acessível
