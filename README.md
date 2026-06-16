@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Noto+Sans&weight=600&size=22&duration=2500&pause=500&color=F7F7F7&multiline=true&width=1000&height=95&lines=T%C3%BAlio+Gois;Graduando+em+Engenharia+de+Computa%C3%A7%C3%A3o+%7C+Pesquisador;Processamento+de+Linguagem+Natural+%7C+Ci%C3%AAncia+de+Dados)](https://github.com/tuliosg)
 ---
-**Pesquisador** em Processamento de Linguagem Natural e Ciência de Dados, vinculado ao Laboratório Multiusuário de Documentação e Processamento Linguístico ([**LAMID**](https://github.com/lamid-ufs)). Atuo nas áreas de _Sociolinguística Computacional_, _Gerenciamento de Dados de Pesquisa_ e _Reprodutibilidade Científica_. 
+**Pesquisador** — ou, mais precisamente, curioso profissional — vinculado ao Laboratório Multiusuário de Informática e Documentação Linguística ([**LAMID**](https://github.com/lamid-ufs)). Atuo nas áreas de _Sociolinguística Computacional_, _Gestão de Dados de Pesquisa_ e _Reprodutibilidade Científica_, e bebo um cafezinho sempre que posso.
 
 ## Repositórios em destaque
 
@@ -12,15 +12,17 @@
 
 ## Últimas publicações
 
+* [**The Brazilian Reproducibility Network**](https://doi.org/10.1590/0001-3765202620251108). _Anais da Academia Brasileira de Ciências_, 2026.
 * [**Negativas: A Prototype for Searching and Classifying Sentential Negation in Speech Data**](https://doi.org/10.25189/2675-4916.2025.v6.n4.id861). _Cadernos de Linguística_, 2025.
 * [**Avaliação de eficiência na leitura: uma abordagem baseada em PLN**](https://doi.org/10.5753/stil.2025.37822). _Simpósio Brasileiro de Tecnologia da Informação e da Linguagem Humana (STIL)_, 2025.
 
 
 ## Trajetória
 
-* 💻 **Tutor de Programação** no [Projeto Mais TI](https://maisti.ufs.br/pagina/32401) | 2025
+* 💻 **Tutor de Programação** no [Projeto Mais TI](https://maisti.ufs.br/pagina/32401) | 2025 - Atual
 * 🔓 **Embaixador** da [Rede Brasileira de Reprodutibilidade](https://www.reprodutibilidade.org) | 2024-2025
 * 🎲 **Membro-fundador** e **Vice-presidente** da [Liga Acadêmica de Ciência de Dados (LADATA)](https://github.com/ladata-ufs) | 2023-2025
+* 🔎 **Pesquisador - Iniciação Tecnológica** no [Laboratório Multiusuário de Informática e Documentação Linguística (LAMID](https://github.com/lamid-ufs) | 2021 - 2024
 
 
 ## Contatos
